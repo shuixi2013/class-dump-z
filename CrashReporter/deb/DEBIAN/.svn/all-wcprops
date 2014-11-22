@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/616/trunk/CrashReporter/deb/DEBIAN
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/616/trunk/CrashReporter/deb/DEBIAN/control
+END
+crash_reporter
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/550/trunk/CrashReporter/deb/DEBIAN/crash_reporter
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/321/trunk/include/GriP/Duplex
+END
+Client.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/321/trunk/include/GriP/Duplex/Client.h
+END
+Server.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/316/trunk/include/GriP/Duplex/Server.h
+END

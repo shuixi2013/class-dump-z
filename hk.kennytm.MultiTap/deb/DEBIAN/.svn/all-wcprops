@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/252/trunk/hk.kennytm.MultiTap/deb/DEBIAN
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/252/trunk/hk.kennytm.MultiTap/deb/DEBIAN/control
+END
+preinst
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/86/trunk/hk.kennytm.MultiTap/deb/DEBIAN/preinst
+END
+postrm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/86/trunk/hk.kennytm.MultiTap/deb/DEBIAN/postrm
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/231/trunk/include/UIKit3
+END
+UIUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/175/trunk/include/UIKit3/UIUtilities.h
+END
+UIBadgeView.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/215/trunk/include/UIKit3/UIBadgeView.h
+END
+UIMailComposeView.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/230/trunk/include/UIKit3/UIMailComposeView.h
+END
+UIActionSheetPro.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/215/trunk/include/UIKit3/UIActionSheetPro.h
+END

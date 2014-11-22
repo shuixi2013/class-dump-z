@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/437/trunk/hk.kennytm.quickscroll/src
+END
+compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/428/trunk/hk.kennytm.quickscroll/src/compile.sh
+END
+QuickScroll.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/437/trunk/hk.kennytm.quickscroll/src/QuickScroll.m
+END
+AlertBackground.xcf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/428/trunk/hk.kennytm.quickscroll/src/AlertBackground.xcf
+END

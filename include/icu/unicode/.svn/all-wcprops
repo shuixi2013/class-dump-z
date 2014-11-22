@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/182/trunk/include/icu/unicode
+END
+umachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/182/trunk/include/icu/unicode/umachine.h
+END
+utypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/182/trunk/include/icu/unicode/utypes.h
+END
+uconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/182/trunk/include/icu/unicode/uconfig.h
+END
+uversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/182/trunk/include/icu/unicode/uversion.h
+END
+utf_old.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/182/trunk/include/icu/unicode/utf_old.h
+END
+urename.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/182/trunk/include/icu/unicode/urename.h
+END
+utf.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/182/trunk/include/icu/unicode/utf.h
+END
+uchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/182/trunk/include/icu/unicode/uchar.h
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/182/trunk/include/icu/unicode/platform.h
+END
+udraft.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/182/trunk/include/icu/unicode/udraft.h
+END
+utf16.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/182/trunk/include/icu/unicode/utf16.h
+END
+utf8.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/182/trunk/include/icu/unicode/utf8.h
+END
